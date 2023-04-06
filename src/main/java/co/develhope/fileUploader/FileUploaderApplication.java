@@ -1,13 +1,13 @@
-package com.example.SpringDemo;
+package co.develhope.fileUploader;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringDemoApplication {
+public class FileUploaderApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringDemoApplication.class, args);
+		SpringApplication.run(FileUploaderApplication.class, args);
 	}
 
 }
