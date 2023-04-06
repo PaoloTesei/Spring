@@ -1,13 +1,13 @@
-package com.example.SpringDemo;
+package co.develhope.mockdatabase;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringDemoApplication {
+public class MockDatabaseApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringDemoApplication.class, args);
+		SpringApplication.run(MockDatabaseApplication.class, args);
 	}
 
 }

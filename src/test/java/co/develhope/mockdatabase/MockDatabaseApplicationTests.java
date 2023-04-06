@@ -1,10 +1,10 @@
-package com.example.SpringDemo;
+package co.develhope.mockdatabase;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringDemoApplicationTests {
+class MockDatabaseApplicationTests {
 
 	@Test
 	void contextLoads() {
